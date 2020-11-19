@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there I'm Glenn 👋
+
+- 🔭 I’m currently working at [JB-HiFi Solutions](https://github.com/JBHi-Fi)
+- 🌱 I’m currently learning about Go, Serverless Tech
+- 💬 Ask me about Functional Programming, JavaScript, React, Node.js, GraphQL, Salesforce
+- 📫 How to reach me: Drop me a message here or at my [website](https://www.glenndimaliwat.com)
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: I geek out on Marvel movies and Online gaming
 
 <!--
 **Gurenax/Gurenax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
