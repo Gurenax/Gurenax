@@ -5,6 +5,7 @@
 - 💬 Ask me about Functional Programming, JavaScript, React, Node.js, GraphQL, Salesforce
 - 📫 How to reach me: Drop me a message here or at my [website](https://www.glenndimaliwat.com)
 - 😄 Pronouns: He/Him/His
+- 📷 You can find me on Instagram as @GoProGlenn
 - ⚡ Fun fact: I geek out on Marvel movies and Online gaming
 
 <!--
