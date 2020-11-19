@@ -1,6 +1,6 @@
 ### Hi there I'm Glenn 👋
 
-- 🔭 I’m currently working at [JB-HiFi Solutions](https://github.com/JBHi-Fi)
+- 🔭 I’m currently working at [JB-HiFi Solutions](https://solutions.jbhifi.com.au/)
 - 🌱 I’m currently learning about Go, Serverless Tech
 - 💬 Ask me about Functional Programming, JavaScript, React, Node.js, GraphQL, Salesforce
 - 📫 How to reach me: Drop me a message here or at my [website](https://www.glenndimaliwat.com)
