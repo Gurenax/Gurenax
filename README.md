@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning about Go, Serverless Tech
 - 💬 Ask me about Functional Programming, JavaScript, React, Node.js, GraphQL, Salesforce
 - 📫 How to reach me: Drop me a message here or at my [website](https://www.glenndimaliwat.com)
-- 😄 Pronouns: He/Him/His
+- 😄 Pronouns: He/Him/His/Himself
 - 📷 You can find me on Instagram as [@GoProGlenn](https://www.instagram.com/goproglenn/)
 - ⚡ Fun fact: I geek out on Marvel movies and Online gaming
 
