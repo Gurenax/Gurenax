@@ -1,6 +1,6 @@
 ### Hi there I'm Glenn 👋
 
-- 🔭 I’m currently working at [Mav3rik](https://github.com/wearemav3rik) as a Technical Lead Developer
+- 🔭 I’m currently working at [Mav3rik](https://mav3rik.com) as a Technical Lead Developer
 - 🌱 I’m currently learning about Go, Serverless Tech, Machine Learning
 - 💬 Ask me about Functional Programming, JavaScript, React, Node.js, GraphQL, Salesforce
 - 📫 How to reach me: Drop me a message here or at my [website](https://www.glenndimaliwat.com)
