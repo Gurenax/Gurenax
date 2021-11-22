@@ -25,10 +25,10 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 
-<a href="https://codeglenn.com">
+<a href="https://codeglenn.com" style="width: 50%">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gurenax&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://codeglenn.com">
+<a href="https://codeglenn.com" style="width: 50%">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurenax&layout=compact&theme=tokyonight&langs_count=8&hide=abap" />
 
 </a>
