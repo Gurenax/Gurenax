@@ -25,10 +25,10 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 
-<a href="https://codeglenn.com" style="width: 50%">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gurenax&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" style="max-width: 50%" />
-</a>
-<a href="https://codeglenn.com" style="width: 50%">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurenax&layout=compact&theme=tokyonight&langs_count=8&hide=abap" style="max-width: 50%"/>
 
+<a href="https://codeglenn.com" style="width: 50%; max-width: 50%">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gurenax&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" width="55%"/>
+</a>
+<a href="https://codeglenn.com" style="width: 50%; max-width: 50%">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurenax&layout=compact&theme=tokyonight&langs_count=8&hide=abap" width="40%"/>
 </a>
