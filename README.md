@@ -3,7 +3,7 @@
 - 🔭 I’m currently working at [Mav3rik](https://mav3rik.com) as a Technical Lead Developer
 - 🌱 I’m currently learning about Go, Serverless Tech, Machine Learning
 - 💬 Ask me about Functional Programming, JavaScript, React, Node.js, GraphQL, Salesforce
-- 📫 How to reach me: Drop me a message here or at my [website](https://www.glenndimaliwat.com)
+- 📫 How to reach me: Drop me a message here or at my [website](https://www.codeglenn.com)
 - 😄 Pronouns: He/Him/His/Himself
 - 📷 You can find me on Instagram as [@code.glenn](https://www.instagram.com/code.glenn/)
 - ⚡ Fun fact: I geek out on Marvel movies and Online gaming
