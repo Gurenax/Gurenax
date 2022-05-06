@@ -1,7 +1,7 @@
 ### Hi there I'm Glenn 👋
 
 - 🔭 I’m currently working at [Mav3rik](https://mav3rik.com) as a Technical Lead Developer
-- 🌱 I’m currently learning about Go, Serverless Tech, Machine Learning and Three.js
+- 🌱 I’m currently learning about Go, Serverless Tech and Three.js
 - 💬 Ask me about Functional Programming, JavaScript, React, Node.js, GraphQL, Salesforce
 - 📫 How to reach me: Drop me a message here or at my [website](https://www.codeglenn.com)
 - 😄 Pronouns: He/Him/His/Himself
