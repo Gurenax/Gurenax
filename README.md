@@ -1,6 +1,6 @@
 ### Hi there I'm Glenn 👋
 
-- 🔭 I’m currently working at [Mav3rik](https://mav3rik.com) as a Technical Lead Developer
+- 🔭 I’m currently working at [JB Hi-Fi](https://github.com/JBHi-fi) as a Senior Full Stack Software Engineer
 - 🌱 I’m currently learning about Go, Serverless Tech and Three.js
 - 💬 Ask me about Functional Programming, JavaScript, React, Next.js, Node.js, GraphQL
 - 📫 How to reach me: Drop me a message here or at my [website](https://www.codeglenn.com)
