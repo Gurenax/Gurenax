@@ -1,12 +1,11 @@
 ### Hi there I'm Glenn 👋
 
 - 🔭 I’m currently working at [JB Hi-Fi](https://github.com/JBHi-fi) as a Senior Full Stack Software Engineer
-- 🌱 I’m currently learning about Go, Serverless Tech and Three.js
 - 💬 Ask me about Functional Programming, JavaScript, React, Next.js, Node.js, GraphQL
 - 📫 How to reach me: Drop me a message here or at my [website](https://www.codeglenn.com)
 - 😄 Pronouns: He/Him/His/Himself
 - 📷 You can find me on Instagram as [@code.glenn](https://www.instagram.com/code.glenn/)
-- ⚡ Fun fact: I am into custom mechanical keyboards. Currently, I have a Keychron K8 Pro with Cherry MX brown switches and a Keychron Q4 with Gateron brown switches.
+- 🌱 Fun fact: I am into custom mechanical keyboards. Currently, I have a Keychron K8 Pro with Cherry MX brown switches and a Keychron Q4 with Gateron brown switches.
 
 <!--
 **Gurenax/Gurenax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
