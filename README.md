@@ -4,7 +4,6 @@
 - 💬 Ask me about Functional Programming, JavaScript, React, Next.js, Node.js, GraphQL
 - 📫 How to reach me: Drop me a message here or at my [website](https://www.codeglenn.com)
 - 📷 You can find me on Instagram as [@code.glenn](https://www.instagram.com/code.glenn/)
-- 🎵 Math Rock. Mid-west Emo. Lo-Fi. Jazz. K-pop
 
 <!--
 **Gurenax/Gurenax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
